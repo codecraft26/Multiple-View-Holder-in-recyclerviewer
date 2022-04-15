@@ -7,3 +7,7 @@ Have you ever asked yourself how you can employ different types of data items in
 This is where multiple ViewHolders come in. They allow us to pass different data objects during the RecyclerView callbacks. This way we can create more interactive and scalable applications.## Screen grab
 
 
+
+https://user-images.githubusercontent.com/75511608/163605624-342b4c0d-9834-4291-97ee-26aaf35d492c.mp4
+
+
